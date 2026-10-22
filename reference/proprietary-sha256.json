@@ -1,0 +1,19 @@
+{
+  "native/mosey_server": "2df9ef19688aa3da39a9cf602bf5423965c81f3a9d3b1e8c7f4b6e10e6041d7a",
+  "native/libmosey_daemon_ffi.so": "89c83ba82930696930968b5aa0d515983be96732697d2bf825e5bfb4ba549ea6",
+  "system/priv-app/MoseyApp/MoseyApp.apk": "8ddb871f9a4df13181de71a89dcbec9f05ff7a2c9c0519f88e5851e6e7765d14",
+  "system/etc/permissions/privapp-permissions-com.google.android.mosey.xml": "29f5b875a4bf8458900a1eb2b037fd40858c507592d98beb477be20fb824702c",
+  "system/etc/default-permissions/default-permissions-com.google.android.mosey.xml": "b25fbf4d59df5fb794234c473cdb0c36fb4d76d3cd746545e665446b59b93e86",
+  "payload/gms/base.apk": "1bfbf0c0ddab74708e723d1fd9080dc16e8623b161973edcb08b257bddce42f0",
+  "payload/gms/split_AdsDynamite_installtime.apk": "96af9f318d2bf5e44ac38b384996c7fb410f6549933fbdba55a40ed297a9ba2e",
+  "payload/gms/split_CronetDynamite_installtime.apk": "dd60dbd510ee71e67de5d7eae64056df18d7eaa431ac51780ef6272bfd1ccf00",
+  "payload/gms/split_DynamiteLoader_installtime.apk": "0e83b44d634c06f6eb4772d85aa9a0fa2bf7dc32a45061fa7c6f7d66134d1aad",
+  "payload/gms/split_DynamiteModulesA_installtime.apk": "be2538df07533753b31f6c044923a5d6419cccb963fbc07e33f63c9cee1521b7",
+  "payload/gms/split_DynamiteModulesC_installtime.apk": "5515e89634734fe23acf5acb99e2f69da6414a4ed51f8e82644f2c94a9cc11ea",
+  "payload/gms/split_GoogleCertificates_installtime.apk": "1af0ac3783c651498a186557dacae3de0b1bea666274fd45d8e89213e0f2d8d2",
+  "payload/gms/split_MapsDynamite_installtime.apk": "217f3b6810a8d61256794928727cee4785afc3a7d67c3a1ddaa3240bcb7dc661",
+  "payload/gms/split_MeasurementDynamite_installtime.apk": "c7afa5cc6c882cf52805fe0b371a1029abf02a16b7b04971d43c049c8052398c",
+  "payload/gms/split_config.xxxhdpi.apk": "eaafe8a4a99f6c68f88edf0a5e89bf4bee33a7325e96fb2f9285dd761fa93363",
+  "payload/gms/split_config.zh.apk": "3ab6c6a67063c11d8e0c9fb0d89a1ae1e1d3f782be721ceb250da631fa013841",
+  "payload/gms/split_maps_core_dynamite_ondemand.apk": "6fbd28233392c4417ca9e6718c698dc550043cfa5a2766ef7e02009cdb812b51"
+}

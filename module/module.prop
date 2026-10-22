@@ -1,0 +1,6 @@
+id=codex_mosey_local
+name=OnePlus 15 AirDrop + OShare combined test
+version=0.6
+versionCode=6
+author=Codex local experiment
+description=PLK110 tested baseline only. Auto-installs bridge APK after unlock; requires active LSPosed and three manually enabled scopes. Action opens initial Google setup.

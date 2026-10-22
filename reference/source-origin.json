@@ -1,0 +1,8 @@
+{
+  "baseline_archive": "OnePlus15-AirDrop-RootInstaller-0.6-Full.zip",
+  "baseline_sha256": "848409372f9d8bc9b5b12c8109b25e8fa60f01bd7aadda40508a6acb747e8c92",
+  "module_scripts": "Extracted verbatim (line endings normalized) from 0.6 archive.",
+  "java_sources": "Maintained local Java sources; ColorOS 17 pre-16-port snapshots where available. Not asserted byte-for-byte identical to the archived DEX.",
+  "later_diagnostics": "Collector v0.3 is included separately, not part of the 0.6 baseline.",
+  "excluded": "Proprietary payloads, decompiled vendor sources, signing keys, APKs, logs, user/device identifiers."
+}

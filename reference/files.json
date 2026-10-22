@@ -1,0 +1,62 @@
+[
+  {
+    "file": "base.apk",
+    "bytes": 194764356,
+    "sha256": "1bfbf0c0ddab74708e723d1fd9080dc16e8623b161973edcb08b257bddce42f0"
+  },
+  {
+    "file": "split_AdsDynamite_installtime.apk",
+    "bytes": 5624870,
+    "sha256": "96af9f318d2bf5e44ac38b384996c7fb410f6549933fbdba55a40ed297a9ba2e"
+  },
+  {
+    "file": "split_CronetDynamite_installtime.apk",
+    "bytes": 12395900,
+    "sha256": "dd60dbd510ee71e67de5d7eae64056df18d7eaa431ac51780ef6272bfd1ccf00"
+  },
+  {
+    "file": "split_DynamiteLoader_installtime.apk",
+    "bytes": 189502,
+    "sha256": "0e83b44d634c06f6eb4772d85aa9a0fa2bf7dc32a45061fa7c6f7d66134d1aad"
+  },
+  {
+    "file": "split_DynamiteModulesA_installtime.apk",
+    "bytes": 1150832,
+    "sha256": "be2538df07533753b31f6c044923a5d6419cccb963fbc07e33f63c9cee1521b7"
+  },
+  {
+    "file": "split_DynamiteModulesC_installtime.apk",
+    "bytes": 2477192,
+    "sha256": "5515e89634734fe23acf5acb99e2f69da6414a4ed51f8e82644f2c94a9cc11ea"
+  },
+  {
+    "file": "split_GoogleCertificates_installtime.apk",
+    "bytes": 947262,
+    "sha256": "1af0ac3783c651498a186557dacae3de0b1bea666274fd45d8e89213e0f2d8d2"
+  },
+  {
+    "file": "split_MapsDynamite_installtime.apk",
+    "bytes": 2626012,
+    "sha256": "217f3b6810a8d61256794928727cee4785afc3a7d67c3a1ddaa3240bcb7dc661"
+  },
+  {
+    "file": "split_MeasurementDynamite_installtime.apk",
+    "bytes": 1053758,
+    "sha256": "c7afa5cc6c882cf52805fe0b371a1029abf02a16b7b04971d43c049c8052398c"
+  },
+  {
+    "file": "split_config.xxxhdpi.apk",
+    "bytes": 1986935,
+    "sha256": "eaafe8a4a99f6c68f88edf0a5e89bf4bee33a7325e96fb2f9285dd761fa93363"
+  },
+  {
+    "file": "split_config.zh.apk",
+    "bytes": 3018962,
+    "sha256": "3ab6c6a67063c11d8e0c9fb0d89a1ae1e1d3f782be721ceb250da631fa013841"
+  },
+  {
+    "file": "split_maps_core_dynamite_ondemand.apk",
+    "bytes": 12711480,
+    "sha256": "6fbd28233392c4417ca9e6718c698dc550043cfa5a2766ef7e02009cdb812b51"
+  }
+]
